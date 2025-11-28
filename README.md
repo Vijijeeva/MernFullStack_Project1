@@ -24,7 +24,7 @@ This project is ideal for business users, analysts, and students who need a fast
 3. Provide a simple and user-friendly interface
 4. Automate chart generation and reporting
 
-# Tech Stack (Example — Edit if needed)
+# Tech Stack 
 # Backend
 1. Python (FastAPI / Flask)
 2. Pandas — Data cleaning & processing

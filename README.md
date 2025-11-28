@@ -58,6 +58,16 @@ This project is ideal for business users, analysts, and students who need a fast
 1. Export cleaned data into new spreadsheet
 2. Export charts into PNG/PDF
 
+#  Installation & Setup
+# backend
+cd backend
 
+node server.js
 
-Save summary as report
+# frontend
+cd frontend
+
+npm install
+
+npm start
+
